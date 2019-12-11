@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EFCodeFirstTest.exe.config
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EFCodeFirstTest.exe
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EFCodeFirstTest.pdb
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.Form1.resources
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.Properties.Resources.resources
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.csproj.CopyComplete
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.exe
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.pdb
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.Migrations.Initial.resources
+C:\Users\User\source\repos\testForm\EFCodeFirstTest\obj\Debug\EFCodeFirstTest.Login.resources
